@@ -1,12 +1,12 @@
 # Panduan Penggunaan Git
 
-* [Mengunduh repository ke dalam komputer](http://https://github.com/https://github.com/HendiKusnadi/README#mengunduh-repository)
-* [Memperbarui repository yang telah diunduh](https://github.com/https://github.com/HendiKusnadi/README#memperbarui-repository)
-* [Mengunggah perubahan ke dalam repository](https://github.com/https://github.com/HendiKusnadi/README#mengunggah-perubahan)
-* [Menghapus file](https://github.com/https://github.com/HendiKusnadi/README#menghapus-file)
-* [Branching](https://github.com/https://github.com/HendiKusnadi/README#branching)
-* [Perintah tambahan](https://github.com/https://github.com/HendiKusnadi/README#perintah-tambahan)
-* [gitignore](https://github.com/https://github.com/HendiKusnadi/README#gitignore)
+* [Mengunduh repository ke dalam komputer](https://github.com/HendiKusnadi/README#mengunduh-repository)
+* [Memperbarui repository yang telah diunduh](https://github.com/HendiKusnadi/README#memperbarui-repository)
+* [Mengunggah perubahan ke dalam repository](https://github.com/HendiKusnadi/README#mengunggah-perubahan)
+* [Menghapus file](https://github.com/HendiKusnadi/README#menghapus-file)
+* [Branching](https://github.com/HendiKusnadi/README#branching)
+* [Perintah tambahan](https://github.com/HendiKusnadi/README#perintah-tambahan)
+* [gitignore](https://github.com/HendiKusnadi/README#gitignore)
 
 ## Mengunduh Repository
 
